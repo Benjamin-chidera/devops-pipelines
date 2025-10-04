@@ -1,18 +1,18 @@
 {
   "name": "devops-pipelines",
   "version": "1.0.0",
-  "description": "",
+  "description": "A CI/CD pipeline example for DevOps workflows",
   "main": "index.js",
   "scripts": {
-    "run": "node index.js",
+    "start": "node index.js",
     "test": "node test.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Benjamin-chidera/devops-pipelines.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["devops", "ci/cd", "pipelines"],
+  "author": "Benjamin Chidera",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
